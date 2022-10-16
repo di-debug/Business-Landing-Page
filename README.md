@@ -13,7 +13,7 @@
 
 ---
 
-### Checkout the live website [here](https://project12-business-landing-page.netlify.app/).
+### Checkout the live website [here](https://project12-busines-landing-page.netlify.app/).
 
 ---
 
